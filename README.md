@@ -1,8 +1,8 @@
 ### Hi there 😄
 ⚡ Python <3
 
-📫 How to reach me: azatova@itmo.ru
-👯 My accounts: [LinkedIn](www.linkedin.com/in/gulshad-azatova-bd1808), [Instagram](https://www.instagram.com/ztvgzh?igsh=ZmN0bGlkeXhvNTly&utm_source=qr)
+- 📫 How to reach me: azatova@itmo.ru
+- 👯 My accounts: [LinkedIn](www.linkedin.com/in/gulshad-azatova-bd1808), [Instagram](https://www.instagram.com/ztvgzh?igsh=ZmN0bGlkeXhvNTly&utm_source=qr)
 
 <!--
 **ztvgzh/ztvgzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
